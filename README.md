@@ -16,6 +16,8 @@ This is a simple web project, deplyment can be on any web server or even local f
 
 ## How to Contribute
 
+Please for this repository and then issue PUll Requests for review.
+
 ### Copyright
 
 2018 Git.Training
