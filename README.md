@@ -16,3 +16,7 @@ This is a simple web project, deplyment can be on any web server or even local f
 
 ## How to Contribute
 
+### Copyright
+
+2018 Git.Training
+
