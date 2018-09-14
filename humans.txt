@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dominick Norwood dominick@gmail.com
 
 # THANKS
 
